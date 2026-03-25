@@ -1,6 +1,4 @@
-===============================
         🤖 RoboSpeaker
-===============================
 
 [ DESCRIPTION ]
 RoboSpeaker is a terminal-based Python program
