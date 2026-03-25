@@ -52,15 +52,8 @@ Thank you for using RoboSpeaker
 ✔ Fast text-to-speech
 
 --------------------------------
-
-[ STOP PROGRAM ]
-
-Press: Ctrl + C
-
 --------------------------------
 
 [ AUTHORS ]
 - Gaurav Rao
-- Ikbal Hussain
-
 ===============================
